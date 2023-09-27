@@ -1,0 +1,45 @@
+.container{
+    background:linear-gradient(135deg,#e0079c,#daebf2);
+    width:60%;
+    margin-left: 20%;
+    margin-top: 10%;
+    border:5%;
+}
+body{
+    background:linear-gradient(360deg,#e595ce,#2cdd1c);
+}
+input[type=text]{
+    width:98%;
+    padding:10px 0px 10px 5px;
+    margin:5px 0 22px 5px;
+    border-color: black;
+
+}
+input[type=tel]{
+    width:30%;
+    padding:10px 0px 10px 5px;
+    margin:5px 0 22px 0;
+    border-color: black;
+
+}
+div{
+    padding:10px 0
+}
+
+input[type=email]{
+    width:98%;
+    padding:10px 0px 10px 5px;
+    border-color: black;
+   
+}
+.branch{
+    width:20%;
+}
+.phonenumber{
+    padding: 10px 2px 10px 0;;
+}
+.btn{
+    width:20%;
+    height:40px;
+    margin-left:200px;
+}
